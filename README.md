@@ -7,6 +7,7 @@
 A comprehensive CLI toolkit for working with JSON Schema. Infer schemas from raw JSON, validate data, diff schemas, and generate TypeScript types instantly. Designed to streamline data-driven development.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
