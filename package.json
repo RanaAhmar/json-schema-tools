@@ -1,0 +1,21 @@
+{
+  "name": "json-schema-tools",
+  "version": "1.0.0",
+  "description": "CLI toolkit to infer, validate, diff, and generate TypeScript types from JSON Schema.",
+  "main": "index.js",
+  "keywords": [
+    "json-schema",
+    "typescript",
+    "cli",
+    "validation",
+    "schema-inference",
+    "developer-tools"
+  ],
+  "author": "Ahmar Hussain (Stackaura)",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "json-schema-to-typescript": "^13.1.1",
+    "json-schema-infer-types": "^1.1.0"
+  }
+}
